@@ -724,7 +724,7 @@ Word Error Rate (WER)
 
 # Author
 
-**Sahil Patil**
+**Sanskar Petkar**
 
 B.Tech — Computer Science and Engineering
 Specialization: Artificial Intelligence
@@ -732,8 +732,3 @@ Vishwakarma Institute of Technology, Pune
 
 ---
 
-# Disclaimer
-
-This repository is created for **academic and educational purposes** as part of Deep Learning laboratory assignments.
-
-Datasets and pre-trained models used in the experiments belong to their respective owners and are used only for learning and experimentation.
